@@ -8,6 +8,3 @@
 
 ### ~About me
 Student of Internet Systems Technology at the Federal Institute of Brasília (IFB). I'm a person who is always looking for constant learning and teamwork!💪
-### ~Technologies
-- Frontend: HTML,CSS, Sass, Javascript. Frameworks: Angular, Bootstrap, Vue.js & React.
-- Backend: Python, PHP, Java. Frameworks: Spring Boot, Streamlit, Laravel & Django. 
